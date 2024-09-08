@@ -1,2 +1,2 @@
 # task-predictor-opencv
-predicting task performed based on gaze points
+tracking gaze points using open cv
